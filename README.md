@@ -4,6 +4,8 @@
 
 Sirius is a web3-based crypto payment project that enables fast, secure, and decentralized transactions. Our mission is to provide a seamless payment experience for users, merchants, and developers alike.
 
+![alt text](Frontend/image.png)
+
 # Features
 
 Decentralized payment processing: Utilize blockchain technology to facilitate trustless, peer-to-peer transactions.
