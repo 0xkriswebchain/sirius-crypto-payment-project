@@ -1,6 +1,10 @@
-Welcome to the client folder of the Sirius Web3 Crypto Payment project! This README provides an overview of the client-side implementation of the project, which enables users to make crypto payments and fetches Giphy GIFs to celebrate successful transactions.
+## Sirius Crypto Payment Project FullStack
 
-#Overview
+Welcome to the the Sirius Web3 Crypto Payment project! This README provides an overview of the client-side implementation of the project, which enables users to make crypto payments and fetches Giphy GIFs to celebrate successful transactions.
+
+![alt text](image.png)
+
+# Overview
 
 The client folder contains the following subfolders:
 
@@ -24,7 +28,7 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
-Getting Started
+# Getting Started
 
 To get started with the client folder, make sure you have Node.js and npm installed on your machine. Then, run the following commands:
 
